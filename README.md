@@ -22,7 +22,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 Dos tipos de fuentes producen voltajes sinusoidales: las máquinas eléctricas rotatorias (generadores de ca) y los circuitos osciladores electrónicos, los cuales se utilizan en instrumentos comúnmente conocidos como generadores de señales electrónicas.
 
-#### LA ONDA SENO
+#### LA ONDA SENOn
 
 ![image](https://user-images.githubusercontent.com/105565683/178116780-8d24f875-c553-4010-8f9e-0bd0b292d89c.png)
 
@@ -499,6 +499,69 @@ La reactancia capacitiva es la oposición a la corriente sinusoidal, expresada e
 Resolución de ejercicios pares de los capítulos 11 y 12 del libro Principios de Circuitos Eléctricos - Floyd.
 
 ### CAPITULO 11 INTRODUCCION A LA CORRIENTE Y AL VOLTAJE ALTERNOS:
+
+2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+
+![image](https://user-images.githubusercontent.com/105565683/178118271-13bccc61-22b4-4eb4-bc51-e2900c3a03be.png)
+
+4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+
+![image](https://user-images.githubusercontent.com/105565683/178118277-c9cb57e3-c645-453d-be1a-7aa6301be576.png)
+
+6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+
+![image](https://user-images.githubusercontent.com/105565683/178118282-55a733e2-cd9d-4570-9dca-225a0afe3467.png)
+
+8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores: 
+
+![image](https://user-images.githubusercontent.com/105565683/178118292-9b7ed0b1-a319-43b5-b119-4e90521f1ceb.png)
+
+10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
+
+![image](https://user-images.githubusercontent.com/105565683/178118294-4e33f98a-d30c-4c57-9c0a-6a4bd52f2e09.png)
+
+![image](https://user-images.githubusercontent.com/105565683/178118296-07f5d3d7-d7f9-4848-83ee-f2ef2edaf3f6.png)
+
+12. Cambie los siguientes valores angulares de radianes a grados: 
+
+![image](https://user-images.githubusercontent.com/105565683/178118305-f49e7bb6-3a71-43e2-b9bc-d070f8c1ad61.png)
+
+14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
+
+Con respecto a 0°: la onda sinusoidal con pico a 75° se desplaza 15° en adelanto. Onda sinusoidal con pico en 100° está desplazado 10° retrasado.
+
+R: El ángulo de fase entre estas ondas es: θ = 100°-75° =25°
+
+16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
+
+![image](https://user-images.githubusercontent.com/105565683/178118324-c7677a4c-f0c2-44c5-85d8-203e2a190efc.png)
+
+18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+
+![image](https://user-images.githubusercontent.com/105565683/178118340-a2d3263e-d785-448a-ab70-7aae6fdd8a12.png)
+
+![image](https://user-images.githubusercontent.com/105565683/178118349-49ce6830-eb8b-432f-b678-8e99b2241956.png)
+
+20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
+
+![image](https://user-images.githubusercontent.com/105565683/178118365-cf1f70aa-664a-4e62-8f83-918d639e135b.png)
+
+22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+
+![image](https://user-images.githubusercontent.com/105565683/178118371-026249ae-008e-4561-80e1-5a86abab2797.png)
+
+![image](https://user-images.githubusercontent.com/105565683/178118377-7a835c6d-6171-48a2-bedc-aa82cd945f0a.png)
+
+24. Determine la frecuencia para cada velocidad angular: 
+
+![image](https://user-images.githubusercontent.com/105565683/178118383-ce72dfb2-6f38-4f27-adee-4a20ea522da7.png)
+
+26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+
+![image](https://user-images.githubusercontent.com/105565683/178118392-f97cec00-57fa-4c2b-855f-008999a5b8bc.png)
+
+
+
 
 ### CAPITULO 12 CAPACITORES:
 
