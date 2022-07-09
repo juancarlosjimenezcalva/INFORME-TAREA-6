@@ -764,6 +764,29 @@ R: Deberá ser de 0Ω para proporcionar un corto a tierra de ca.
 
 ## VIDEO
 
+
+
 ## CONCLUSIONES
 
+-	La onda sinusoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo, mientras que la onda no sinusoidal es cualquier forma de onda que difiera de la descripción básica de la forma de onda senoidal.
+-	Las formulas para la onda seno, tienen directa relación con: ángulo, periodo, frecuencia, valor pico, valor pico a pico, valor RMS y valor promedio, con estas formulas se obtiene el voltaje y corriente.
+-	Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular).
+-	El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida.
+-	Un circuito de corriente alterna consta de una combinación de elementos (resistencias, capacidades y autoinducciones) y un generador que suministra la corriente alterna.
+-	Los capacitores son dispositivos que almacenan energía, disponibles en muchos tamaños y formas.
+-	Los tipos de capacitores se diferencian en dos principalmente son fijos y variables.
+-	Las aplicaciones de capacitores van desde de almacenamiento eléctrico hasta memorias de computadoras.
+
 ## BIBLIOGRAFÍA 
+
+ecured. (s.f.). ecured. Obtenido de ecured: https://www.ecured.cu/Onda_senoidal
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+fluke. (s.f.). fluke. Obtenido de fluke: https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-frecuencia
+
+fluke. (s.f.). fluke. Obtenido de fluke: https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-capacitancia
+
+generadordeseñales. (s.f.). generadordeseñales. Obtenido de generadordeseñales: https://xn--generadordeseales-rxb.com/
+
+organosdepalencia. (23 de Diciembre de 2021). organosdepalencia. Obtenido de organosdepalencia: https://organosdepalencia.com/biblioteca/articulo/read/234605-que-es-un-periodo-en-una-onda-senoidal
