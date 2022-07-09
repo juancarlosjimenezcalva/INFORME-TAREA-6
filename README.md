@@ -764,7 +764,7 @@ R: Deberá ser de 0Ω para proporcionar un corto a tierra de ca.
 
 ## VIDEO
 
-
+https://youtu.be/281bMMEFeWM
 
 ## CONCLUSIONES
 
