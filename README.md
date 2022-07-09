@@ -1,2 +1,21 @@
-# INFORME-TAREA-6
-Resolución de ejercicios de los capítulos 11 y 12 de principios de circuitos eléctricos con su respectivo informe.
+# INFORME TAREA 5
+
+## OBJETIVO GENERAL:
+
+## OBJETIVOS ESPECÍFICOS: 
+
+## MARCO TEÓRICO:
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+Resolución de ejercicios pares de los capítulos 11 y 12 del libro Principios de Circuitos Eléctricos - Floyd.
+
+### CAPITULO 11 INTRODUCCION A LA CORRIENTE Y AL VOLTAJE ALTERNOS:
+
+### CAPITULO 12 CAPACITORES:
+
+## VIDEO
+
+## CONCLUSIONES
+
+## BIBLIOGRAFÍA 
