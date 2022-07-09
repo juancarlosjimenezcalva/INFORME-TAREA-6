@@ -22,7 +22,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 Dos tipos de fuentes producen voltajes sinusoidales: las máquinas eléctricas rotatorias (generadores de ca) y los circuitos osciladores electrónicos, los cuales se utilizan en instrumentos comúnmente conocidos como generadores de señales electrónicas.
 
-#### LA ONDA SENOn
+#### LA ONDA SENO
 
 ![image](https://user-images.githubusercontent.com/105565683/178116780-8d24f875-c553-4010-8f9e-0bd0b292d89c.png)
 
@@ -560,7 +560,7 @@ R: El ángulo de fase entre estas ondas es: θ = 100°-75° =25°
 
 ![image](https://user-images.githubusercontent.com/105565683/178118392-f97cec00-57fa-4c2b-855f-008999a5b8bc.png)
 
-
+h
 
 
 ### CAPITULO 12 CAPACITORES:
